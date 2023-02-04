@@ -101,7 +101,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/drew-m-collins/"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
@@ -109,7 +109,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/CollinsDrew"
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -117,7 +117,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-800">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.facebook.com/profile.php?id=100089274055218"
             >
               Facebook <BsFacebook size={30} />
             </a>
@@ -125,7 +125,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-400">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://twitter.com/_Drew_Collins"
             >
               Twitter <FaTwitter size={30} />
             </a>
@@ -133,7 +133,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:drewmcollins90@gmail.com"
             >
               Email <HiOutlineMail size={30} />
             </a>
